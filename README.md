@@ -1,2 +1,34 @@
 # SimplyChatAppSocket
-A simple chat app using Websocket
+
+Ứng dụng Chat App Realtime đơn giản sử dụng WebSocket
+
+
+
+
+## Installation
+### Node JS
+
+
+#### Ubuntu
+```bash
+  sudo apt update
+  sudo apt install nodejs
+  sudo apt install npm
+```
+#### Windows
+Tải xuống và cài đặt theo đường dẫn sau: [https://nodejs.org/en/download/prebuilt-installer] 
+
+## Run the Project
+Open your terminal and navigate to your project directory. For example:
+```bash
+  C:\Users\Nguyen\Desktop\chatapp\SimplyChatAppSocket
+```
+Then, run the following command to install the dependencies:
+```bash
+  npm install
+```
+Once the dependencies are installed, you can start the application by executing:
+```bash
+  node app.js
+```
+After running this command, your application will be up and running. You can access it in your web browser at http://localhost:3000.
