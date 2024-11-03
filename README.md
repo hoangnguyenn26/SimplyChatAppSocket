@@ -1,12 +1,12 @@
 # SimplyChatAppSocket
 
-Ứng dụng Chat App Realtime đơn giản sử dụng WebSocket
+This application is a simple real-time chat app built using WebSocket technology. It allows users to communicate with each other instantly and seamlessly.
 
 
 
 
 ## Installation
-### Node JS
+### Node.js
 
 
 #### Ubuntu
@@ -16,7 +16,7 @@
   sudo apt install npm
 ```
 #### Windows
-Tải xuống và cài đặt theo đường dẫn sau: [https://nodejs.org/en/download/prebuilt-installer] 
+Download and install Node.js from the following link: [https://nodejs.org/en/download/prebuilt-installer] 
 
 ## Run the Project
 Open your terminal and navigate to your project directory. For example:
