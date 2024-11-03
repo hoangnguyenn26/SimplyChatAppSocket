@@ -32,3 +32,7 @@ Once the dependencies are installed, you can start the application by executing:
   node app.js
 ```
 After running this command, your application will be up and running. You can access it in your web browser at http://localhost:3000.
+
+## Preview
+![image](https://github.com/user-attachments/assets/87fde244-cbd2-484f-8e34-35e5bf6c1618)
+
